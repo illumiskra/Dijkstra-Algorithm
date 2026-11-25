@@ -1,0 +1,10 @@
+Dijkstra Algorithm simulator 
+
+
+This is a simple Dijkstra algorithm simulator where the suer can input edges weights. When you run the program it will open a window displaying 6 nodes and input boxes. On the left of each input box it will tell you which vertexes this edge connects. When you enter all valid inputs run the program by clicking start. 
+
+It will display a graph and will highlight the shortest path. Also you can check the shortest path at the bottom of the screen.
+Thank you 
+
+
+Valentina Cherkovskaya
